@@ -1,0 +1,7 @@
+C:\Users\istva\OneDrive\Asztali gép\opening weekend\nyitohetvege\bin\Debug\nyitohetvege.exe.config
+C:\Users\istva\OneDrive\Asztali gép\opening weekend\nyitohetvege\bin\Debug\nyitohetvege.exe
+C:\Users\istva\OneDrive\Asztali gép\opening weekend\nyitohetvege\bin\Debug\nyitohetvege.pdb
+C:\Users\istva\OneDrive\Asztali gép\opening weekend\nyitohetvege\obj\Debug\nyitohetvege.csprojAssemblyReference.cache
+C:\Users\istva\OneDrive\Asztali gép\opening weekend\nyitohetvege\obj\Debug\nyitohetvege.csproj.CoreCompileInputs.cache
+C:\Users\istva\OneDrive\Asztali gép\opening weekend\nyitohetvege\obj\Debug\nyitohetvege.exe
+C:\Users\istva\OneDrive\Asztali gép\opening weekend\nyitohetvege\obj\Debug\nyitohetvege.pdb
